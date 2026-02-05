@@ -46,3 +46,9 @@ The analysis followed these steps:
 This project demonstrates how data-driven analysis and statistical testing can be used to investigate commonly held assumptions in sports journalism, providing evidence-based insights into goal-scoring patterns in international soccer.
 
 📌 *This project was completed as part of my data analytics learning journey.*
+
+## Results
+The statistical test results indicate that the average number of goals scored in women's international soccer matches is higher than that of men's at the 10% significance level.
+
+## Interpretation
+Based on the p-value obtained from the hypothesis test, we reject the null hypothesis in favor of the alternative hypothesis. This suggests that women's international matches tend to have higher goal counts than men's in FIFA World Cup matches since 2002.
