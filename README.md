@@ -39,6 +39,7 @@ The analysis followed these steps:
 - Python
 - Pandas
 - NumPy
+- Matplotbib
 - Statistical hypothesis testing
 
 ## Conclusion
